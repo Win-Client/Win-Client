@@ -1,3 +1,5 @@
+Join My Discord <3 : https://discord.gg/CSyKtE3UUj
+
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Potion&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Win%20Client%20Developer&descSize=18&descAlignY=55&textBg=false"/>
 
 <p align="center">
