@@ -18,3 +18,6 @@ Join the Discord here: https://discord.gg/CSyKtE3UUj
 *Note: Some modules like TriggerBot and SilentAura now have distinct versions across the Combat and 1.9 categories. Use the respective module depending on the PvP version meta you are playing to avoid flags.*
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Update 3
+Spentt an hour-2 hours fixing 1 basic spelling mistake i missed :pray: aka now its update 2 but working // fixed everything
