@@ -1,2 +1,20 @@
 Initial Github Release: Integrety: SHA-256: 770A8188C673DB1871089D7EE236565B8F9D4B2CC1CBA9F50716A43AEB6F9C54
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+Update 2: 
+# WinClient Update - 1.9 Combat Overhaul & Quality of Life
+
+**What's New:**
+- **1.9 Combat Category**: Added an entirely new `1.9` meta panel in the ClickGUI. All features in this panel use dynamic cooldown calculations (`getAttackStrengthScale`) instead of legacy CPS spamming for maximum server-side stealth on modern PvP modes.
+- **ShieldBreaker 1.9**: Brand new module that automatically detects when an enemy is blocking, silently swaps to an axe in your inventory, disables their shield with a perfectly timed strike, and instantly swaps back to your sword.
+- **HitSwap & CrystalAura (1.9 Ports)**: Brought our most popular legacy combat utilities into the new 1.9 mechanics suite for better crystal switching and optimized weapon swapping.
+- **Keybind Support Overhaul**: Added full support for custom mouse buttons (M4/M5 and beyond) directly in the ClickGUI binder. Now you can map modules to side mouse buttons cleanly without config editing.
+- **ClickGUI Enhancement**: Widened and restructured the GUI category spacing for better legibility and a cleaner, wider aesthetic when opening the menus.
+- **Update Checker Fixed**: Fully repaired the update checker to now pull natively from the official GitHub Releases API. It will dynamically check the latest release tags and notify you instantly in chat if a newer version drops.
+- **Unique User Tracking**: Implemented a non-aggressive, lightweight webhook tracking system tied to our Discord to monitor total unique active users (doesn't collect personal info, just increments a public counter). 
+Actively Searching for recommendations//bugs//etc to improve the client and grow the community
+Join the Discord here: https://discord.gg/CSyKtE3UUj
+
+*Note: Some modules like TriggerBot and SilentAura now have distinct versions across the Combat and 1.9 categories. Use the respective module depending on the PvP version meta you are playing to avoid flags.*
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
