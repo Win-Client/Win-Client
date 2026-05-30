@@ -40,3 +40,7 @@ Added
 -Other small qol thiings
 A LOT OF THE NEW STUFF IS UNTESTED PLEASE REPORT ANY BUGS//ISSUES AND LEAVE ME FEEDBACK
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Update 5:
+Fixed some gui bugs where you couldnt modify some things!
+
