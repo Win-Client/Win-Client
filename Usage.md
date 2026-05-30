@@ -13,7 +13,7 @@ Potion is built on the modern **Fabric** toolchain. Ensure you have the followin
     *   👉 **Download:** [Fabric API on Modrinth](https://modrinth.com/mod/fabric-api)
 3.  **Fabric Language Kotlin**: Enables seamless execution of Kotlin-based client mechanics.
     *   👉 **Download:** [Fabric Language Kotlin on Modrinth](https://modrinth.com/mod/fabric-language-kotlin)
-
+4. **Minecraft 26.1.2**
 ---
 
 ## ⚙️ Quick Installation
