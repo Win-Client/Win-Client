@@ -21,3 +21,22 @@ Join the Discord here: https://discord.gg/CSyKtE3UUj
 
 Update 3
 Spentt an hour-2 hours fixing 1 basic spelling mistake i missed :pray: aka now its update 2 but working // fixed everything
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Update 4:
+**Small Gui Update**
+Added
+-PearlMacro
+-AutoSoup
+-AutoMace
+-InstaCart
+-Cart-Refill
+-AutoWindCharge
+-Support for mouse buttons as a keybind
+-AntiDiveBomb (good against mace attacks)
+-Some render features like targeteffect, Hitparticles
+-Updated targethud
+-Other small qol thiings
+A LOT OF THE NEW STUFF IS UNTESTED PLEASE REPORT ANY BUGS//ISSUES AND LEAVE ME FEEDBACK
+
